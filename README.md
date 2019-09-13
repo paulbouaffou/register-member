@@ -1,7 +1,7 @@
-#register-member
+# register-member
 
 Application for enabling to insert, to update and to delete a member of WIKIPEDIA-UVCI Club
 
-##Contributor
+## Contributor
 
-* Club WIKIPEDIA-UVCI 
+* [Paul Bouaffou](https://github.com/paulbouaffou) 
